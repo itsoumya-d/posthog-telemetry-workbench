@@ -1,0 +1,10 @@
+{
+  "name": "posthog-telemetry-workbench",
+  "version": "1.0.0",
+  "description": "TypeScript & Python telemetry troubleshooting workbench: SDK token-bucket rate limiter, HogQL weekday insights, GDPR async person/property erasure, and AI generation trace aggregation.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.ts"
+  },
+  "license": "MIT"
+}
